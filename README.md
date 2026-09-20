@@ -1,1 +1,1 @@
-Minimal direct-read reproduction of the `pascalbell/FFSD-backend` Stripe webhook idiom named in v3 §1.6. Expected mechanical FAIL.
+Direct-read deterministic repair case. The proposed path rewrite must restore the baseline on planning and held-out real pairs before exit 5.
